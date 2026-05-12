@@ -1,0 +1,15 @@
+{
+  "name": "qhse-control-candidature",
+  "version": "1.0.0",
+  "description": "Page HTML autonome de candidature pour QHSE Control, servie avec Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
